@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "342743226451",
+    "firebase_url": "https://glot-c5df4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "glot-c5df4",
+    "storage_bucket": "glot-c5df4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342743226451:android:a473f5b7ca327afa378ea6",
+        "android_client_info": {
+          "package_name": "com.example.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342743226451-dpipasv57lmbcdkgoivrhfoui5j0cgk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArRWlbHEow84mLw9b7oYoQwnL_D_zIZUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342743226451-dpipasv57lmbcdkgoivrhfoui5j0cgk6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342743226451-5islm0mcd43m7ibae65cttfeppm1ngu8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.poliglot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342743226451:android:24806a29a19b3cb0378ea6",
+        "android_client_info": {
+          "package_name": "com.example.fireb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342743226451-dpipasv57lmbcdkgoivrhfoui5j0cgk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArRWlbHEow84mLw9b7oYoQwnL_D_zIZUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342743226451-dpipasv57lmbcdkgoivrhfoui5j0cgk6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342743226451-5islm0mcd43m7ibae65cttfeppm1ngu8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.poliglot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342743226451:android:1d7eb5d1dc0246d7378ea6",
+        "android_client_info": {
+          "package_name": "com.example.poliglot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342743226451-dpipasv57lmbcdkgoivrhfoui5j0cgk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArRWlbHEow84mLw9b7oYoQwnL_D_zIZUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342743226451-dpipasv57lmbcdkgoivrhfoui5j0cgk6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342743226451-5islm0mcd43m7ibae65cttfeppm1ngu8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.poliglot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
